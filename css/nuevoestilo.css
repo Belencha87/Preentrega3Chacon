@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(to left, #31033a, black); }
+
+.d-flex {
+  font-family: 'Cinzel Decorative', cursive;
+  color: antiquewhite; }
+  .d-flex.section {
+    background-color: #50501f; }
+
+.conteiner {
+  padding: 30px; }
+  .conteiner .color-texto {
+    font-family: 'Cinzel Decorative', cursive;
+    color: #eeebe7; }
+  .conteiner h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    color: antiquewhite; }
+  .conteiner h4 {
+    font-family: 'Cinzel Decorative', cursive; }
+  .conteiner p {
+    font-family: 'Saira Condensed', sans-serif;
+    color: antiquewhite; }
+
+.footer {
+  background-color: #252325;
+  text-align: center;
+  padding: 10px;
+  color: #e6dce6; }
